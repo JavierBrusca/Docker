@@ -1,4 +1,3 @@
-Aquí tienes el README basado en la información proporcionada sobre Docker.
 
 # Docker
 
