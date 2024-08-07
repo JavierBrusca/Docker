@@ -1,5 +1,12 @@
 # Docker
 
+## Índice
+1. [Comandos básicos](#comandos-básicos)
+2. [Ejecutar un contenedor](#ejecutar-un-contenedor)
+3. [Construir una imagen](#construir-una-imagen)
+4. [Limpieza](#limpieza)
+5. [Documentación](#documentación)
+
 ## Comandos básicos
 
 - `systemctl status docker` -> Verifica el estado del servicio Docker.
@@ -134,3 +141,4 @@
 - [Docker GitHub](https://github.com/docker)
 - [Docker Community Forums](https://forums.docker.com/)
 - [Docker Subreddit](https://www.reddit.com/r/docker/)
+
