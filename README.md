@@ -1,11 +1,9 @@
-
 # Docker
 
 ## Comandos básicos
 
 - `systemctl status docker` -> Verifica el estado del servicio Docker.
 - `docker run hello-world` -> Ejecuta un contenedor de prueba de Docker.
-
 - `docker images` -> Lista las imágenes locales.
 - `docker ps` -> Lista los contenedores en ejecución.
 - `docker ps -a` -> Lista todos los contenedores.
@@ -128,3 +126,11 @@
     docker images
     docker rmi a54ee9c44b3b 6130c26b5558 057d51c0049c 825d55fb6340 12766a6745ee feb5d9fea6a5
     ```
+
+## Documentación
+
+- [Documentación oficial de Docker](https://docs.docker.com/)
+- [Docker Hub](https://hub.docker.com/)
+- [Docker GitHub](https://github.com/docker)
+- [Docker Community Forums](https://forums.docker.com/)
+- [Docker Subreddit](https://www.reddit.com/r/docker/)
